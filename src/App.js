@@ -1,11 +1,11 @@
 
 import './App.css';
-import First from './Component/Firstpg/First';
+import Register from './Component/Register/Register';
 
 function App() {
   return (
-    <div className="App">
-     <First/>
+    <div>
+            <Register />
     </div>
   );
 }
