@@ -8,7 +8,7 @@ import PhoneAndroidIcon from '@material-ui/icons/PhoneAndroid';
 // import { createTheme } from '@material-ui/core/styles';
 const Register = () => {
 
-    const paperStyle = { padding: '30px 35px', width: '500px', margin: "60px auto" }
+    const paperStyle = { padding: '30px 35px', width: '500px', margin: "65px auto" }
     const headerStyle = { margin: 0 }
     const namestyles = { margin: '40px 35px', width: '400px'}
     const emailstyles={ width:'400px', margin: '-27px 35px'}
@@ -18,7 +18,7 @@ const Register = () => {
    
     return (
         <div className="sample">
-            <Grid container spacing={40}>
+            <Grid container spacing={80}>
                 <Paper elevation={20} style={paperStyle}>
                     <Grid align='center'>
 
