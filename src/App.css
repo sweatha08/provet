@@ -1,10 +1,7 @@
 .App {
   text-align: center;
 }
-.sample {
-  background-color: #3f51b5;
-  background-size: cover;
-}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
